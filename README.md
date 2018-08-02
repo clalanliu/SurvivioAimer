@@ -11,7 +11,7 @@
 
 * Install necessary packages first (python3.5 needed):  
   ```bash
-	pip install numpy pillow scikit-image keyboard pyautogui
+	pip install numpy pillow scikit-image keyboard pyautogui matplotlib
 	```
 
 * To run the program:
