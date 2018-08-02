@@ -16,7 +16,7 @@
 
 * To run the program:
   ```bash
-	python CompairView.pyw
+	python SurvivioAimer.py
 	```
 
 * To build the executable file:
