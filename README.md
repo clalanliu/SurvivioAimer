@@ -16,12 +16,12 @@
 
 * To run the program:
   ```bash
-	python SurvivioAimer.py
+	python SurvivioAimer.pyw
 	```
 
 * To build the executable file:
   ```bash
-	pyinstaller -F SurvivioAimer.py
+	pyinstaller -F SurvivioAimer.pyw
 	```
 
 **Usage:**
