@@ -27,5 +27,6 @@
 **Usage:**
 * Z/z: Turn on/off SurvivioAimer.
 * O/o: Reset the radius of enimes to appropriately. (Please do this after changing the scope every time.) 
+* Ctrl + C: Exit.
 
 
