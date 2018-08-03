@@ -19,7 +19,7 @@ def main():
                 if radii != None:
                     people_radii = radii
                     print('set people radii: ', people_radii)
-            if aimer_turn_on:
+            if aimer_turn_on or keyboard.is_pressed('shift'):
                 ox, oy = pyautogui.position()
                 cx, cy = VisualUtils.getEmimiesPosition([ox, oy], people_radii, config.min_radii, config.max_radii)
                 if cx != None:
